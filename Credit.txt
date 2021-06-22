@@ -1,0 +1,34 @@
+Code and Tutorials used/fllowed to develop this program:
+
+Java Programming: Let's Build a Game series by RealTutsGML : YouTube https://www.youtube.com/watch?v=1gir2R7G9ws&list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa
+
+Java Game Programming for Beginners - #9 - Mouse Moved Events by TheJavaHub - YouTube, https://www.youtube.com/watch?v=CZ6i8RM6Uxg&t=350s
+
+
+
+Project Refrence:
+
+Candy Crush - A Fantasy RPG written in Python using Pygame: https://www.youtube.com/watch?v=MkZXaDQfTSo&t=1438s
+Hunipop: Leveling design Insperation.
+
+
+
+Sprites:
+
+
+Crystals(all): craftpix -https://craftpix.net/freebies/free-crystals-2d-game-items/
+
+
+
+Background:
+
+
+Forest background(both): craftpix, https://craftpix.net/freebies/free-cartoon-forest-game-backgrounds/
+
+
+Music and Sound:
+
+Candy sound - Jingle_Win_Synth_03.wav, Free sound,https://freesound.org/people/LittleRobotSoundFactory/sounds/274177/
+
+Memories by Benjamin Tissot: Bensound, https://www.bensound.com/royalty-free-music/track/creative-minds
+Creativeminds by Benjamin Tissot: Bensound, https://www.bensound.com/royalty-free-music/track/memories
