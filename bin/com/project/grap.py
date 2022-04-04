@@ -129,7 +129,7 @@ for i in code:
     colnum = 0;
     lineNum += 1
 
-k=1
+
 for i in range(len(token)):
     print(token[i])
 
